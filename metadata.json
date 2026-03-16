@@ -1,0 +1,5 @@
+{
+  "name": "Mikachan",
+  "description": "Mikachan powers private, offline-ready tap-to-pay for Web3. ZK-NFC transactions, x402-secured settlement, and autonomous payment verification.",
+  "requestFramePermissions": []
+}
